@@ -51,6 +51,6 @@ Remember to connect the appropriate supply to both modules & don't forget to con
 
 ## Contributing
 
-Are you a programmer, engineer or hobbyist who has a great idea for a new feature in this project? Maybe you have a good idea for a bug fix? Feel free to grab our code & schematics from Github and tinker with it. Don't forget to smash those Star & Pull Request buttons. [Contributor List](https://github.com/jonathanrjpereira/Arduino-Iron-Man-Jarvis/graphs/contributors)
+Are you a programmer, engineer or hobbyist who has a great idea for a new feature in this project? Maybe you have a good idea for a bug fix? Feel free to grab our code & schematics from Github and tinker with it. Don't forget to smash those ⭐️ & Pull Request buttons. [Contributor List](https://github.com/jonathanrjpereira/Arduino-Iron-Man-Jarvis/graphs/contributors)
 
 Made with ❤️ by [Jonathan Pereira](https://github.com/jonathanrjpereira)
